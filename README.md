@@ -39,6 +39,7 @@ The training data consists mainly of negative feedback towards the marketing cam
 ## Screenshots <a name="screenshots"></a>
 
 Customer segments vs. population segments
+![customer_segments](https://user-images.githubusercontent.com/8439378/186956037-e8d081ca-0b04-498c-a6b2-c06f61ac6cb7.png)
 
 
 ## Acknowledgements<a name="licensing"></a>
