@@ -38,6 +38,8 @@ The training data consists mainly of negative feedback towards the marketing cam
 
 ## Screenshots <a name="screenshots"></a>
 
+Customer segments vs. population segments
+
 
 ## Acknowledgements<a name="licensing"></a>
 
