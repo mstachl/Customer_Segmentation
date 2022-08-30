@@ -30,6 +30,10 @@ The goal of the project is twofold:
 - Supervised learning: Cluster the datasets into groups to find out characteristics of existing customers and their differences to the general population
 - Unsupervised learning: Develop a forecasting model to predict and identify prospective customer response for a marketing campaign
 
+## Project report
+
+The project report can be found <a href="https://github.com/mstachl/Customer_Segmentation/blob/main/Report.pdf">here</a>.
+
 
 ## Limitations
 
